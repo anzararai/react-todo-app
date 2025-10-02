@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f5a997a.css",
-    "main.js": "/static/js/main.c0bcfe57.js",
-    "static/js/453.ac79db8d.chunk.js": "/static/js/453.ac79db8d.chunk.js",
-    "static/media/bg-1.jpg": "/static/media/bg-1.1ebebe5774ddf385c49e.jpg",
-    "index.html": "/index.html",
-    "main.5f5a997a.css.map": "/static/css/main.5f5a997a.css.map",
-    "main.c0bcfe57.js.map": "/static/js/main.c0bcfe57.js.map",
-    "453.ac79db8d.chunk.js.map": "/static/js/453.ac79db8d.chunk.js.map"
+    "main.css": "/react-todo-app/static/css/main.d1c43b4e.css",
+    "main.js": "/react-todo-app/static/js/main.12190df2.js",
+    "static/js/453.ac79db8d.chunk.js": "/react-todo-app/static/js/453.ac79db8d.chunk.js",
+    "static/media/bg-1.jpg": "/react-todo-app/static/media/bg-1.1ebebe5774ddf385c49e.jpg",
+    "index.html": "/react-todo-app/index.html",
+    "main.d1c43b4e.css.map": "/react-todo-app/static/css/main.d1c43b4e.css.map",
+    "main.12190df2.js.map": "/react-todo-app/static/js/main.12190df2.js.map",
+    "453.ac79db8d.chunk.js.map": "/react-todo-app/static/js/453.ac79db8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f5a997a.css",
-    "static/js/main.c0bcfe57.js"
+    "static/css/main.d1c43b4e.css",
+    "static/js/main.12190df2.js"
   ]
 }
