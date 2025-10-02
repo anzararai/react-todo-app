@@ -1,5 +1,6 @@
 {
   "name": "todo-app",
+  "homepage": "https://anzararai.github.io/react-todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +44,4 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
-  
 }
